@@ -1,0 +1,19 @@
+{
+  "name": "1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "sendevent": "~1.0.2",
+    "express": "~4.10.2",
+    "watch": "~0.13.0",
+    "uglify-js": "~2.4.15",
+    "ejs": "~1.0.0"
+  }
+}

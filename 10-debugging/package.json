@@ -1,0 +1,14 @@
+{
+  "name": "10-debugging",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Vladutu <alexandru.vladutu@gmail.com> (http://careers.stackoverflow.com/alessioalex)",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "~2.1.0"
+  }
+}
